@@ -1,0 +1,127 @@
+{
+    "dahlia": {
+        "scientific_name": "Dahlia pinnata",
+        "description": "Highly ornamental flowers known for vibrant colors and diverse forms ranging from small pompoms to large dinner-plate blooms.",
+        "common_colors": [
+            "red",
+            "pink",
+            "yellow",
+            "purple",
+            "white"
+        ],
+        "habitat": "Gardens and cultivated fields",
+        "blooming_season": "Summer to early autumn",
+        "uses": [
+            "ornamental",
+            "garden decoration",
+            "flower shows"
+        ],
+        "symbolism": "Elegance, strength, creativity"
+    },
+    "hibiscus": {
+        "scientific_name": "Hibiscus rosa-sinensis",
+        "description": "Large, showy, trumpet-shaped flowers commonly found in tropical and subtropical regions.",
+        "common_colors": [
+            "red",
+            "pink",
+            "yellow",
+            "orange",
+            "white"
+        ],
+        "habitat": "Tropical gardens, hedges, roadsides",
+        "blooming_season": "Year-round in warm climates",
+        "uses": [
+            "ornamental",
+            "herbal tea",
+            "hair care",
+            "medicinal"
+        ],
+        "symbolism": "Beauty, femininity, vitality"
+    },
+    "lotus": {
+        "scientific_name": "Nelumbo nucifera",
+        "description": "Sacred aquatic plant with large fragrant flowers and round floating leaves, often associated with purity and spirituality.",
+        "common_colors": [
+            "pink",
+            "white"
+        ],
+        "habitat": "Ponds, lakes, wetlands",
+        "blooming_season": "Summer",
+        "uses": [
+            "religious rituals",
+            "ornamental",
+            "medicinal",
+            "food (seeds & roots)"
+        ],
+        "symbolism": "Purity, enlightenment, rebirth"
+    },
+    "marigold": {
+        "scientific_name": "Tagetes erecta",
+        "description": "Bright annual flowers with strong fragrance, widely used in festivals and traditional ceremonies.",
+        "common_colors": [
+            "orange",
+            "yellow"
+        ],
+        "habitat": "Gardens, farms, open fields",
+        "blooming_season": "Winter to summer",
+        "uses": [
+            "religious offerings",
+            "pest control",
+            "ornamental"
+        ],
+        "symbolism": "Positivity, prosperity, celebration"
+    },
+    "rose": {
+        "scientific_name": "Rosa spp.",
+        "description": "Classic flowering plant known for fragrant petals and thorny stems, cultivated worldwide.",
+        "common_colors": [
+            "red",
+            "pink",
+            "white",
+            "yellow",
+            "orange"
+        ],
+        "habitat": "Gardens, greenhouses",
+        "blooming_season": "Spring to autumn",
+        "uses": [
+            "ornamental",
+            "perfume",
+            "rose water",
+            "medicinal"
+        ],
+        "symbolism": "Love, passion, beauty"
+    },
+    "sunflower": {
+        "scientific_name": "Helianthus annuus",
+        "description": "Tall plants with large yellow flower heads that track the sun during early growth stages.",
+        "common_colors": [
+            "yellow",
+            "brown"
+        ],
+        "habitat": "Fields, farms, open sunny areas",
+        "blooming_season": "Summer",
+        "uses": [
+            "ornamental",
+            "edible seeds",
+            "oil production"
+        ],
+        "symbolism": "Happiness, loyalty, optimism"
+    },
+    "waterlily": {
+        "scientific_name": "Nymphaea spp.",
+        "description": "Elegant aquatic flowers that float on water surfaces, commonly seen in ponds and lakes.",
+        "common_colors": [
+            "white",
+            "pink",
+            "blue",
+            "purple"
+        ],
+        "habitat": "Freshwater bodies",
+        "blooming_season": "Summer",
+        "uses": [
+            "ornamental",
+            "ecological balance"
+        ],
+        "symbolism": "Peace, purity, renewal"
+    }
+}
